@@ -31,6 +31,7 @@ cpu ~30%
 memory ~150mb
 network ~9mb
 
+---------------------
 
 ProcessPoolExecutor
 intel 7020u 3 coins
